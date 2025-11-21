@@ -58,13 +58,15 @@
 ---
 
 ## 📊 Telemetry Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashkhope01&show_icons=true&theme=dark&title_color=e10600&icon_color=e10600" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashkhope01&layout=compact&theme=dark&title_color=e10600" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashkhope01&show_icons=true&theme=dark&title_color=00e5e5&icon_color=00e5e5&text_color=ffffff&hide_border=true" height="170"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashkhope01&layout=compact&theme=dark&title_color=00e5e5&text_color=ffffff&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Yashkhope01&theme=dark&ring=e10600&fire=e10600&currStreakNum=ffffff" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Yashkhope01&theme=dark&ring=00e5e5&fire=00e5e5&currStreakNum=ffffff&sideNums=ffffff&hide_border=true" height="180"/>
 </p>
 
 ---
