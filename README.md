@@ -1,4 +1,4 @@
-<h1 align="center">🏁 Yash Khope
+<h1 align="center">🏁 Yash Khope 🏁
   
   Full-Stack Performance Engineer</h1>
 
