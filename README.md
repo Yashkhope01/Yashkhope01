@@ -66,16 +66,17 @@
 
   <img src="https://streak-stats.demolab.com?user=Yashkhope01&theme=dark&ring=00e5e5&fire=00e5e5&currStreakNum=ffffff&sideNums=ffffff&hide_border=true" height="180"/>
 </p> -->
-## 📊 Telemetry — Onyx Performance Data  
+## 📊 Telemetry — LH44 Data Systems  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashkhope01&show_icons=true&theme=dark&title_color=E10600&icon_color=E10600&text_color=ffffff&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashkhope01&show_icons=true&theme=dark&title_color=9B59B6&icon_color=9B59B6&text_color=ffffff&hide_border=true" height="170"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashkhope01&layout=compact&theme=dark&title_color=E10600&text_color=ffffff&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashkhope01&layout=compact&theme=dark&title_color=9B59B6&text_color=ffffff&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Yashkhope01&theme=dark&ring=E10600&fire=E10600&currStreakNum=ffffff&sideNums=ffffff&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Yashkhope01&theme=dark&ring=9B59B6&fire=9B59B6&currStreakNum=ffffff&sideNums=ffffff&hide_border=true" height="180"/>
 </p>
+
 
 
 
