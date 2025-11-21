@@ -10,10 +10,11 @@
 
 ## 🏎️ Driver Profile  
 **Name :** Yash Prakash Khope  
-**Role :** Full-Stack Developer  
+**Role :** Full-Stack Engineer  
 **Nationality :** Indian 🇮🇳  
-**Team :** MERN Performance Enginering
-**Number :** 03 
+**Team :** MERN Performance Engineering  
+**Number :** 03  
+
 
 ---
 
