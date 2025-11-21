@@ -1,8 +1,10 @@
+
+
 <h1 align="center">Hi 👋, I'm Yash Prakash Khope</h1>
 <h3 align="center">A passionate Full-Stack Developer from India 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yashkhope01&label=Profile%20Views&color=0e75b6&style=flat" alt="Yashkhope01" />
+  <img src="https://raw.githubusercontent.com/Yashkhope01/Yashkhope01/main/profile.jpg" width="220" height="220" style="border-radius: 50%;" />
 </p>
 
 ---
