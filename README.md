@@ -1,35 +1,36 @@
-<h1 align="center" style="font-weight:800; letter-spacing:3px; color:#e10600;">
-    🏎️ PRAKASH KHOPE — FULL-STACK ENGINEER
+<h1 align="center" style="font-weight:800; letter-spacing:2px; color:#00e5e5;">
+    🏎️ YASH KHOPE — FULL-STACK ENGINEER
 </h1>
 
 
-
 <p align="center">
-  <strong style="font-size: 18px; color:#e10600;">BLACK • RED • ONYX EDITION</strong><br>
-  <strong style="font-size: 16px; color:#a0a0a0;">INSPIRED BY LEWIS HAMILTON · CAR NO. 03</strong>
+  <strong style="font-size: 18px; color:#00e5e5;">
+    MERCEDES-AMG PETRONAS · SILVER ARROWS STEALTH MODe
+  </strong><br>
+  <strong style="font-size: 16px; color:#999;">CAR NO. 03 · PRECISION ENGINEERING</strong>
 </p>
 
 ---
 
-## 🖤 DRIVER PROFILE — ONYX SPEC  
+## 🩶 DRIVER PROFILE — SILVER ARROWS SPEC  
 **Name:** Prakash Khope  
 **Role:** Full-Stack Developer  
 **Car No:** 03  
 **Nationality:** 🇮🇳  
-**Spec:** Precision • High-Performance • Night-Mode Engineering  
+**DNA:** Calm · Precise · Ice-Cold Execution  
 
 ---
 
-## 🔥 GARAGE INTEL (LIVE UPDATES)  
-- Currently engineering with **React · Node.js · Next.js**  
-- Designing **high-performance, low-latency backends**  
-- Building **real-world systems with production-grade logic**  
-- Exploring **system design, scalability & distributed architecture**  
+## ⚡ HYBRID POWER UNIT — LIVE DEVELOPMENT SPECS  
+- Developing with **React · Node.js · Next.js**  
+- Architecting **high-performance backends**  
+- Focused on **scalability · latency reduction · system design**  
+- Clean code, telemetry-driven debugging  
 - Team Radio: **prakashkhope123@gmail.com**
 
 ---
 
-## 🏁 CONNECT — PIT LANE ACCESS  
+## 🏁 PIT LANE — CONNECTIONS  
 <p align="left">
 <a href="https://www.linkedin.com/in/prakash-khope/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
@@ -38,8 +39,7 @@
 
 ---
 
-## ⚙️ ONYX ENGINE PACKAGE (TECH STACK)
-
+## 🛠️ SILVER ARROWS TOOLKIT (TECH STACK)
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" />
@@ -55,51 +55,51 @@
 
 ---
 
-## 📊 PERFORMANCE TELEMETRY (BLACK • RED MODE)
+## 📊 PERFORMANCE TELEMETRY — AMG MODE
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashkhope01&show_icons=true&theme=dark&title_color=e10600&icon_color=e10600&text_color=ffffff" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashkhope01&layout=compact&theme=dark&title_color=e10600&text_color=ffffff" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashkhope01&show_icons=true&theme=dark&title_color=00e5e5&icon_color=00e5e5&text_color=ffffff" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashkhope01&layout=compact&theme=dark&title_color=00e5e5&text_color=ffffff" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Yashkhope01&theme=dark&ring=e10600&fire=e10600&currStreakNum=ffffff&sideNums=ffffff" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Yashkhope01&theme=dark&ring=00e5e5&fire=00e5e5&currStreakNum=ffffff&sideNums=ffffff" height="180"/>
 </p>
 
 ---
 
-## 🏆 PODIUM FINISHERS — FEATURED PROJECTS  
+## 🏆 PODIUM PROJECTS — SILVER ARROWS EDITION
 
 ### 🥇 **E-Commerce Platform**  
-High-speed commerce engine with optimized flows  
+Performance-focused shopping engine with optimized flows  
 🔗 Repo: *(add link)*  
 
 ### 🥈 **Auction Platform**  
-Real-time bidding system designed for competitive loads  
+Real-time bidding under competitive load — ultra-responsive  
 🔗 Repo: *(add link)*  
 
 ### 🥉 **Blog Application**  
-Minimal, clean, ultra-smooth content system  
+Minimal, smooth, aerodynamic content system  
 🔗 Repo: *(add link)*  
 
 ---
 
 ## 🚀 SIGNATURE BUILDS  
 **Portfolio Website**  
-https://yashkhope01.github.io/Portfolio/  
+https://yashkhope01.github.io/Portfolio/
 
 **AI-Powered Hunger Relief Network**  
-Google Solutions Challenge — intelligent food distribution  
+Google Solutions Challenge — intelligent logistics AI  
 
 **Citizen Safety App**  
-Emergency reporting + camera + real-time backend  
+Emergency detection and secure backend architecture  
 
 ---
 
-## 🖤 TEAM RADIO (QUOTE)  
-> “UNDER THE LIGHTS. IN THE DARK. PERFORMANCE NEVER SLEEPS.”  
-> — ONYX EDITION
+## 🖤 TEAM RADIO — DRIVERS’ MESSAGE  
+> “Calm under pressure. Cold in execution. Fast when it matters.”  
+> — Silver Arrows Stealth Mode
 
 ---
 
-⭐ **If the work resonates — drop a star. Every star fuels the next lap.**
+⭐ **If the engineering inspires you — leave a star. Every star fuels the next upgrade.**
