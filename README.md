@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prakash Khope</h1>
+<h1 align="center">Hi 👋, I'm Yash Prakash Khope</h1>
 <h3 align="center">A passionate Full-Stack Developer from India 🚀</h3>
 
 <p align="center">
@@ -66,14 +66,11 @@
 
 ## 🚀 Featured Projects  
 ### 🔹 **Portfolio Website**  
-Modern responsive portfolio built using **HTML, CSS, JS**  
+Modern portfolio built using **HTML, CSS, JS**  
 👉 Live: https://yashkhope01.github.io/Portfolio/  
 👉 Code: https://github.com/Yashkhope01/Portfolio  
 
-### 🔹 **Citizen Safety App (React + Node.js)**  
-Real-time emergency reporting with camera capture system.  
 
-### 🔹 **AI-powered Hunger Relief Network** *(Google Solutions Challenge 2025)*  
 Optimizing food distribution using AI + ML + React.
 
 ---
