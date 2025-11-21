@@ -98,14 +98,14 @@ A website for a hostel owner with complete hostel information
 ---
 🏎️ **Additional High-Performance Builds**
 
-🏁 Auction Platform
-A real-time bidding system built using modern full-stack technologies.
-💻 Repository: https://github.com/Yashkhope01/Auction
+🏁 **Auction Platform**  
+A real-time bidding system built using modern full-stack technologies  
+💻 Repository: https://github.com/Yashkhope01/Auction  
 
 
-🏁 Blog Application
-Full-featured blog system with authentication, CRUD, and clean UI.
-💻 Repository: https://github.com/Yashkhope01/blog
+🏁 **Blog Application**  
+Full-featured blog system with authentication, CRUD, and a clean UI  
+💻 Repository: https://github.com/Yashkhope01/blog  
 
 
 
