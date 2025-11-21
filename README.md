@@ -9,11 +9,11 @@
 ---
 
 ## 🏎️ Driver Profile  
-**Name:** Yash Prakash Khope  
-**Role:** Full-Stack Developer  
-**Nationality:** Indian 🇮🇳  
-**Team:** MERN GP  
-**Number:** 03 
+**Name :** Yash Prakash Khope  
+**Role :** Full-Stack Developer  
+**Nationality :** Indian 🇮🇳  
+**Team :** MERN GP  
+**Number :** 03 
 
 ---
 
@@ -21,7 +21,7 @@
 - 🧠 Training on **React, Node.js & Next.js**  
 - 🛠 Improving **system design & backend architecture**  
 - 🏗 Working on **AI-powered solutions & real-world apps**  
-- 📩 Reach the paddock: **yashkhope123@gmail.com**
+- 📩 Reach the paddock : **yashkhope123@gmail.com**
 
 ---
 
@@ -88,7 +88,7 @@ A website for a hostel owner with his hostel info.
 
 
 ---
-🏎️ Additional High-Performance Builds
+🏎️ **Additional High-Performance Builds**
 
 🏁 Auction Platform
 A real-time bidding system built using modern full-stack technologies.
@@ -105,7 +105,7 @@ Full-featured blog system with authentication, CRUD, and clean UI.
 
 -----
 
-## 🏆 Team Radio  
+##  Team Radio  
 > “Consistency wins championships both in Formula 1 and coding.”
 "It's Hammertime."
 
