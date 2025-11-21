@@ -20,7 +20,7 @@
 
 ## 🔥 Pit Lane Updates — Live Engineering Feed
 
-- 🧠 **Training on :*  * React, Node.js & Next.js  
+- 🧠 **Training on :** React, Node.js & Next.js  
 - 🛠️ **Improving :** System design & backend architecture  
 - 🤖 **Building :** AI-powered apps & real-world systems  
 - 📡 **Team Radio:** yashkhope123@gmail.com
@@ -28,7 +28,7 @@
 
 ---
 
-## 🔗 Connect with Me  
+## 🔗 Official Driver Links 
 <p align="left">
 <a href="https://www.linkedin.com/in/prakash-khope/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30"/>
@@ -43,7 +43,7 @@
 
 ---
 
-## 🧰 Garage Tools (Tech Stack)
+## 🧰 Garage Tools 
 
 <p align="center">
 
@@ -69,10 +69,6 @@
 
   <img src="https://streak-stats.demolab.com?user=Yashkhope01&theme=dark&ring=00e5e5&fire=00e5e5&currStreakNum=ffffff&sideNums=ffffff&hide_border=true" height="180"/>
 </p> 
-
-
-
-
 
 
 ---
