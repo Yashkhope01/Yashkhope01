@@ -12,7 +12,7 @@
 **Name :** Yash Prakash Khope  
 **Role :** Full-Stack Developer  
 **Nationality :** Indian 🇮🇳  
-**Team :** MERN GP  
+**Team :** MERN Performance Enginering
 **Number :** 03 
 
 ---
