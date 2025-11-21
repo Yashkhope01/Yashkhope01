@@ -83,16 +83,12 @@ Modern personal portfolio with animations & clean UI
 
 🥈 **E-Commerce Platform**
 Shopping cart, product management, secure checkout & more.
-
 🔗 Live: https://github.com/Yashkhope01/Django/
-
 🛠 Code: https://github.com/Yashkhope01/Django/
 
 🥉 **Hostel Website**
 A website for a hostel owner with his hostel info.
-
 🔗 Live: https://yashkhope01.github.io/hostel/
-
 🛠 Code:  https://github.com/Yashkhope01/hostel/
 
 
@@ -102,13 +98,11 @@ A website for a hostel owner with his hostel info.
 
 🏁 Auction Platform
 A real-time bidding system built using modern full-stack technologies.
-
 💻 Repository: https://github.com/Yashkhope01/Auction
 
 
 🏁 Blog Application
 Full-featured blog system with authentication, CRUD, and clean UI.
-
 💻 Repository: https://github.com/Yashkhope01/blog
 
 
