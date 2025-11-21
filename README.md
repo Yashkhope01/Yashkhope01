@@ -66,16 +66,17 @@
 
   <img src="https://streak-stats.demolab.com?user=Yashkhope01&theme=dark&ring=00e5e5&fire=00e5e5&currStreakNum=ffffff&sideNums=ffffff&hide_border=true" height="180"/>
 </p> -->
-## 📊 Live Telemetry
+## 📊 Telemetry — Onyx Performance Data  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashkhope01&show_icons=true&theme=dark&title_color=E10600&icon_color=E10600&text_color=ffffff&hide_border=true" height="170"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashkhope01&layout=compact&theme=dark&title_color=E10600&text_color=ffffff&hide_border=true" height="170"/>
+</p>
 
-<div align="center">
-  <!-- RPM gauge -->
-  <img src="/mnt/data/telemetry_rpm.svg" alt="Developer RPM" width="640"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Yashkhope01&theme=dark&ring=E10600&fire=E10600&currStreakNum=ffffff&sideNums=ffffff&hide_border=true" height="180"/>
+</p>
 
-  <!-- Dashboard -->
-  <br/>
-  <img src="/mnt/data/performance_dashboard.svg" alt="Performance Dashboard" width="900"/>
-</div>
 
 
 
