@@ -1,7 +1,9 @@
-<h1 align="center">🏁 Yash Khope — Full-Stack Developer</h1>
+<h1 align="center">🏁 Yash Khope
+  
+  Full-Stack Performance Engineer</h1>
 
 <p align="center">
-  <strong style="font-size: 18px;">"Engineering speed — whether it's code or cars."</strong>
+  <strong style="font-size: 18px; color: #FF0000">"Engineering speed whether it's code or cars."</strong>
 </p>
 
 ---
@@ -67,12 +69,23 @@
 
 ---
 
-## 🚀 Featured Projects (Podium Finishers)
+##  🚀 Podium Finisher Projects 
 
 🥇 **Portfolio Website**  
 Modern personal portfolio with animations & clean UI  
 🔗 Live: https://yashkhope01.github.io/Portfolio/  
-🛠 Code: https://github.com/Yashkhope01/Portfolio  
+🛠 Code: https://github.com/Yashkhope01/Portfolio 
+
+🥈 **E-Commerce Platform**
+Shopping cart, product management, secure checkout & more.
+💻 Repository: https://github.com/Yashkhope01/Django
+
+🥉 **Hostel Website**
+A website for a hostel owner with his hostel info.
+🔗 Live: https://yashkhope01.github.io/hostel/
+🛠 Code:  https://github.com/Yashkhope01/hostel/
+
+
 
 ---
 🏎️ Additional High-Performance Builds
@@ -80,27 +93,24 @@ Modern personal portfolio with animations & clean UI
 🏁 Auction Platform
 A real-time bidding system built using modern full-stack technologies.
 
-💻 Repository: (add your repo link here)
+💻 Repository: https://github.com/Yashkhope01/Auction
 
 
 🏁 Blog Application
 Full-featured blog system with authentication, CRUD, and clean UI.
 
-💻 Repository: (add your repo link here)
+💻 Repository: https://github.com/Yashkhope01/blog
 
 
-🏁 E-Commerce Platform
-Shopping cart, product management, secure checkout & more.
-
-💻 Repository: (add your repo link here)
 
 -----
 
 ## 🏆 Team Radio  
-> “Consistency wins championships — both in Formula 1 and coding.”
-
+> “Consistency wins championships both in Formula 1 and coding.”
 "It's Hammertime."
 
 ---
-⭐ **Enjoy the engineering? Give a ⭐ — let's keep pushing.** 🏎️💨 — LH44
+⭐ **Enjoy the engineering? Give a ⭐ 
+
+ **let's keep pushing.** 🏎️💨 — LH44
 
