@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <strong style="font-size: 18px; color:#00e5e5;">
+  <strong style="font-size: 18px; color:blue;">
     MERCEDES-AMG PETRONAS · SILVER ARROWS STEALTH MODe
   </strong><br>
   <strong style="font-size: 16px; color:#999;">CAR NO. 03 · PRECISION ENGINEERING</strong>
