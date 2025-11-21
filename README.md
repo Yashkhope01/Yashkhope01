@@ -18,11 +18,13 @@
 
 ---
 
-## 🔥 Pit Lane Updates  
-- 🧠 Training on **React, Node.js & Next.js**  
-- 🛠 Improving **system design & backend architecture**  
-- 🏗 Working on **AI-powered solutions & real-world apps**  
-- 📩 Reach the paddock : **yashkhope123@gmail.com**
+## 🔥 Pit Lane Updates — Live Engineering Feed
+
+- 🧠 **Training on :*  * React, Node.js & Next.js  
+- 🛠️ **Improving :** System design & backend architecture  
+- 🤖 **Building :** AI-powered apps & real-world systems  
+- 📡 **Team Radio:** yashkhope123@gmail.com
+
 
 ---
 
