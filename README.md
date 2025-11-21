@@ -79,17 +79,19 @@
 🥇 **Portfolio Website**  
 Modern personal portfolio with animations & clean UI  
 🔗 Live: https://yashkhope01.github.io/Portfolio/  
-🛠 Code: https://github.com/Yashkhope01/Portfolio 
+🛠 Code: https://github.com/Yashkhope01/Portfolio  
 
-🥈 **E-Commerce Platform**
-Shopping cart, product management, secure checkout & more.
-🔗 Live: https://github.com/Yashkhope01/Django/
-🛠 Code: https://github.com/Yashkhope01/Django/
 
-🥉 **Hostel Website**
-A website for a hostel owner with his hostel info.
-🔗 Live: https://yashkhope01.github.io/hostel/
-🛠 Code:  https://github.com/Yashkhope01/hostel/
+🥈 **E-Commerce Platform**  
+Shopping cart, product management, secure checkout & more  
+🔗 Live: https://github.com/Yashkhope01/Django/  
+🛠 Code: https://github.com/Yashkhope01/Django/  
+
+
+🥉 **Hostel Website**  
+A website for a hostel owner with complete hostel information  
+🔗 Live: https://yashkhope01.github.io/hostel/  
+🛠 Code: https://github.com/Yashkhope01/hostel/  
 
 
 
