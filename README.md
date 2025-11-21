@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight:800; letter-spacing:2px; color:#00e5e5;">
+<h1 align="center" style="font-weight:800; letter-spacing:2px; color:#FF0000;">
     🏎️ YASH KHOPE — FULL-STACK ENGINEER
 </h1>
 
